@@ -1,6 +1,8 @@
 ### Hey, I am Sourabh 👋
 
-With extensive hands-on experience in software development and engineering, I specialize in architecting scalable applications, high-performance microservices, and robust automated systems. My approach is rooted in clean software architecture, modern web technologies, and rigorous multi-stack engineering standards.
+> *"Engineering excellence is built on rigorous execution, unwavering accountability, and a relentless commitment to building systems that matter."*
+
+With extensive hands-on experience in software development and engineering, I specialize in architecting scalable applications, high-performance microservices, and robust automated systems. Beyond technical proficiency, I believe that true engineering leadership is defined by core human values—**absolute trust, honesty, unyielding loyalty, and genuine kindness** in every client partnership and team collaboration.
 
 I partner with businesses and agencies to scale existing technological infrastructures, streamline operations, and deliver production-ready software solutions efficiently.
 
