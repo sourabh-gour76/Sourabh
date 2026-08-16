@@ -1,8 +1,13 @@
 ### Hey, I am Sourabh 👋
 
-With extensive experience in software development and engineering, I specialize in building scalable applications, microservices, and automated systems. I am passionate about clean architecture, modern web technologies, and multi-stack software engineering.
+With extensive hands-on experience in software development and engineering, I specialize in architecting scalable applications, high-performance microservices, and robust automated systems. My approach is rooted in clean software architecture, modern web technologies, and rigorous multi-stack engineering standards.
 
-I help businesses and agencies scale existing technologies, automate operations, and deliver high-performance digital solutions across diverse tech stacks.
+I partner with businesses and agencies to scale existing technological infrastructures, streamline operations, and deliver production-ready software solutions efficiently.
+
+### 🤖 AI-Driven Development & Rigorous Code Verification:
+* **LLM & AI-Assisted Tooling:** Leveraging advanced development workflows using modern platforms like Claude, ChatGPT / Codex, Gemini, and Antigravity to accelerate prototyping and full-stack delivery.
+* **Architectural Oversight & Vibe Coding:** Translating high-level conceptual frameworks and prompt-driven workflows into structured, maintainable, and enterprise-grade code.
+* **Verification, Testing & Quality Assurance:** Implementing rigorous manual and automated code reviews, security auditing, and comprehensive debugging. Every AI-assisted contribution undergoes stringent verification to guarantee production readiness, security compliance, and long-term reliability.
 
 ### 💻 Tech Stack & Expertise:
 
@@ -36,6 +41,13 @@ I help businesses and agencies scale existing technologies, automate operations,
   ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
   ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
   ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+
+* **AI, Machine Learning & Data:** 
+  ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+  ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 * **Blockchain & Web3:** 
   ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
